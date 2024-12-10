@@ -20,11 +20,6 @@ using namespace std;
     void candidaTe(); // classwork 10/1/2024 
     unsigned long factorial(unsigned int n); 
     unsigned long fibinacci(unsigned int n);     
-
-
-
-
-
     struct Candidate {
         char name[20];
         int count; 
@@ -43,6 +38,13 @@ using namespace std;
 
 
     return 0;}
+
+
+    // Classwork 12/10/2024 
+
+    
+
+
 
 
     // After a lot of days now, 10/17/2024

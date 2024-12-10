@@ -1,0 +1,57 @@
+/*
+	algorithm - Defines functions for a variety of purposes (e.g. searching, sorting, counting, manipulating) that operate on ranges of elements.
+	array - Provides a fixed-size sequence container.
+	atomic - Provides atomic operations on scalar types, such as integers and floats.
+	chrono - Provides functions and classes for working with time, including clocks, timers, and time points.
+	cmath - Provides functions for performing mathematical operations on floating-point numbers, such as trigonometry, exponential functions, and hyperbolic functions.
+	codecvt - Provides functions for performing conversion between different character encodings.
+	complex - Provides functions and classes for working with complex numbers.
+	condition_variable - Provides classes and functions for working with condition variables, which are used to synchronize threads.
+	cstddef - Defines several types and functions for working with sizes and limitations of types.
+	cstdio - Provides input/output functions for working with files and the standard streams.
+	cstdlib - Provides general-purpose functions, including dynamic memory management, random number generation, communication with the environment, integer arithmetic, searching, sorting, and converting.
+	cstring - Provides functions for manipulating C-style strings.
+	cwchar - Provides functions for manipulating wide strings.
+	cwctype - Provides functions for classifying and transforming wide characters.
+	deque - Provides a double-ended queue data structure.
+	exception - Provides functions and classes for working with exceptions, which are used to handle errors and other exceptional conditions.
+	forward_list - Provides a singly-linked list data structure.
+	fstream - Provides input/output functions for working with files and streams.
+	functional - Provides functions for working with functions, including function objects, binders, and negators.
+	future - Provides classes and functions for working with asynchronous operations, including futures, promises, and packaged tasks.
+	initializer_list - Provides a class for representing a list of values that can be used to initialize objects.
+	iomanip - Provides manipulators for input/output streams, such as setting the precision and width of output.
+	ios - Provides the base class for all input/output classes, including streams, fstreams, and strings.
+	iosfwd - Provides forward declarations of iostream objects.
+	iostream - Provides input/output functions for working with streams and the standard streams.
+	istream - Provides input functions for working with input streams.
+	iterator - Provides functions and classes for working with iterators, which are used to traverse sequences of elements.
+	limits - Provides functions and classes for working with the limits of types, such as the maximum and minimum values of a type.
+	list - Provides a doubly-linked list data structure.
+	locale - Provides functions and classes for working with locale-specific data, such as character classification and string formatting.
+	map - Provides an associative container that maps keys to values.
+	memory - Provides functions and classes for working with memory, including dynamic memory allocation and deallocation.
+	mutex - Provides functions and classes for working with mutual exclusion, which is used to synchronize access to shared data.
+	new - Provides functions for dynamic memory allocation and deallocation.
+	numeric - Provides functions for performing numerical operations, such as accumulation, inner product, and partial sum.
+	ostream - Provides output functions for working with output streams.
+	queue - Provides a first-in-first-out data structure.
+	random - Provides classes and functions for generating random numbers.
+	ratio - Provides functions and classes for working with ratios, which are used to represent fractions and proportions.
+	regex - Provides functions and classes for working with regular expressions.
+	scoped_allocator - Provides a class for working with scoped allocators, which are used to manage memory allocation and deallocation.
+	set - Provides an associative container that stores unique elements.
+	shared_mutex - Provides functions and classes for working with shared mutexes, which are used to synchronize access to shared data.
+	sstream - Provides input/output functions for working with strings.
+	string - Provides a class for working with strings.
+	system_error - Provides functions and classes for working with system errors, which are used to represent errors that occur when interacting with the environment.
+	thread - Provides functions and classes for working with threads, which are used to execute code concurrently.
+	tuple - Provides a class for representing a tuple of values.
+	typeindex - Provides a class for working with type indices, which are used to identify types.
+	type_traits - Provides functions and classes for working with type traits, which are used to classify and manipulate types.
+	unordered_map - Provides an associative container that maps keys to values using a hash table.
+	unordered_set - Provides an associative container that stores unique elements using a hash table.
+	utility - Provides functions and classes for working with utilities, such as pair and tuple.
+	valarray - Provides a class for working with valarrays, which are used to represent sequences of values.
+	vector - Provides a class for working with vectors, which are used to represent sequences of values.
+*/
